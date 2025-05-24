@@ -9,7 +9,6 @@ df = pd.read_csv("listings/listings.csv")
 df = df[
     [
         "host_id",
-        "description",
         "property_type",
         "room_type",
         "accommodates",
@@ -28,20 +27,19 @@ le_room = LabelEncoder()
 df["property_type_enc"] = le_property.fit_transform(df["property_type"])
 df["room_type_enc"] = le_room.fit_transform(df["room_type"])
 
-X = df["description"]
 y_reg = df[["accommodates", "bedrooms", "beds", "bathrooms", "price"]]
 y_cls = df[["property_type_enc", "room_type_enc"]]
 host_ids = df["host_id"]
 
-X_train, X_test, y_reg_train, y_reg_test, y_cls_train, y_cls_test, host_train, host_test = train_test_split(
-    X, y_reg, y_cls, host_ids, test_size=0.2, random_state=42
+_, _, y_reg_test, y_reg_test, y_cls_test, y_cls_test, host_train, host_test = train_test_split(
+    df.index, y_reg, y_cls, host_ids, test_size=0.2, random_state=42
 )
 
 most_common_cat = df.groupby("host_id")[["property_type", "room_type"]].agg(lambda x: x.mode()[0])
 mean_num = df.groupby("host_id")[["accommodates", "bedrooms", "beds", "bathrooms", "price"]].mean()
 host_baseline = most_common_cat.join(mean_num)
 
-baseline_per_host = pd.DataFrame(index=X_test.index)
+baseline_per_host = pd.DataFrame(index=host_test.index)
 for col in host_baseline.columns:
     baseline_per_host[col] = host_test.map(
         lambda hid: host_baseline.loc[hid][col] if hid in host_baseline.index else np.nan
@@ -56,13 +54,13 @@ baseline_per_host["host_id"] = host_test.values
 print("Baseline predictions per host:")
 print(baseline_per_host.reset_index(drop=True).head())
 
-print("\nMAE – regresja (baseline vs test):")
+print("\nMAE - regresja (baseline vs test):")
 for col in y_reg.columns:
     if col in baseline_per_host.columns:
         mae = mean_absolute_error(y_reg_test[col].values, baseline_per_host[col].values)
         print(f"{col}: {mae:.2f}")
 
-print("\nAccuracy – klasyfikacja (baseline vs test):")
+print("\nAccuracy - klasyfikacja (baseline vs test):")
 acc_property_base = accuracy_score(
     y_cls_test["property_type_enc"], le_property.transform(baseline_per_host["property_type"])
 )
