@@ -10,7 +10,6 @@ df = pd.read_csv("listings/listings.csv")
 df = df[
     [
         "host_id",
-        "description",
         "property_type",
         "room_type",
         "accommodates",
