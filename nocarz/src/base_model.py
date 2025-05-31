@@ -1,5 +1,6 @@
 import pandas as pd
 from typing import Any
+import pickle
 
 
 NUMERICAL_COLUMNS = ["accommodates", "bathrooms", "bedrooms", "beds", "price"]
@@ -62,6 +63,28 @@ class BaseModel:
                 predictions[col] = None
 
         return predictions, data_type
+
+    def save(self, filepath: str) -> None:
+        """
+        Save the trained model to a file using pickle.
+
+        Args:
+            filepath (str): Path where the model should be saved.
+        """
+
+        with open(filepath, 'wb') as f:
+            pickle.dump(self._data, f)
+
+    def load(self, filepath: str) -> None:
+        """
+        Load a trained model from a file using pickle.
+
+        Args:
+            filepath (str): Path to the saved model file.
+        """
+
+        with open(filepath, 'rb') as f:
+            self._data = pickle.load(f)
 
     def _get_user_listings(self, host_id: int) -> pd.DataFrame:
         """
