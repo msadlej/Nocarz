@@ -1,8 +1,9 @@
 import pandas as pd
+from typing import Any
 
 
-NUMERICAL_COLUMNS = ['accommodates', 'bathrooms', 'bedrooms', 'beds', 'price']
-CATEGORICAL_COLUMNS = ['property_type', 'room_type', 'bathrooms_text']
+NUMERICAL_COLUMNS = ["accommodates", "bathrooms", "bedrooms", "beds", "price"]
+CATEGORICAL_COLUMNS = ["property_type", "room_type", "bathrooms_text"]
 
 
 class BaseModel:
@@ -30,7 +31,7 @@ class BaseModel:
 
         self._data = self._data.append(listing, ignore_index=True)
 
-    def make_prediction(self, host_id: int) -> tuple:
+    def make_prediction(self, host_id: int) -> tuple[dict[str, Any], str]:
         """
         Make predictions for a single listing.
 
@@ -42,7 +43,6 @@ class BaseModel:
                 - predictions (dict): Predicted values for numerical and categorical columns.
                 - data_type (str): Indicates if the predictions are based on user data or global data.
         """
-
 
         user_data = self._get_user_listings(host_id)
         data = user_data if len(user_data) > 0 else self._data
@@ -74,10 +74,10 @@ class BaseModel:
             pd.DataFrame: DataFrame containing listings for the specified host.
         """
 
-        return self._data[self._data['host_id'] == host_id]
+        return self._data[self._data["host_id"] == host_id]
 
     @staticmethod
-    def _predict_numerical(values: pd.Series) -> float:
+    def _predict_numerical(values: pd.Series) -> Any:
         """
         Predict numerical value using median.
 
@@ -94,7 +94,7 @@ class BaseModel:
         return None
 
     @staticmethod
-    def _predict_categorical(values: pd.Series) -> str:
+    def _predict_categorical(values: pd.Series) -> Any:
         """
         Predict categorical value using most common.
 
@@ -134,18 +134,18 @@ class BaseModel:
                     if col in CATEGORICAL_COLUMNS:
                         match = str(pred) == str(true)
                         results[col] = {
-                            'predicted': pred,
-                            'actual': true,
-                            'match': match,
-                            'type': 'categorical'
+                            "predicted": pred,
+                            "actual": true,
+                            "match": match,
+                            "type": "categorical",
                         }
                     else:
                         error = abs(float(pred) - float(true))
                         results[col] = {
-                            'predicted': pred,
-                            'actual': true,
-                            'error': error,
-                            'type': 'numerical'
+                            "predicted": pred,
+                            "actual": true,
+                            "error": error,
+                            "type": "numerical",
                         }
 
         return results
