@@ -20,3 +20,30 @@ just install
 ```bash
 just run
 ```
+
+
+## Project Organization
+
+```
+├── Justfile           <- Justfile with convenience commands
+├── README.md          <- The top-level README for developers using this project.
+├── data               <- Data for training the models.
+│
+├── docs               <- Documentation for the project.
+│
+├── models             <- Trained and serialized models, model predictions, or model summaries.
+│
+├── notebooks          <- Jupyter notebooks.
+│
+├── pyproject.toml     <- Configuration file for mypy.
+│
+├── requirements.txt   <- The requirements file for reproducing the analysis environment.
+│
+├── setup.cfg          <- Project configuration file.
+│
+└── nocarz             <- Source code for use in this project.
+    │
+    ├── __init__.py             <- Makes nocarz a Python module.
+```
+
+--------
