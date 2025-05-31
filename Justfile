@@ -15,6 +15,9 @@ lint:
     {{VENV}}/bin/flake8 .
     {{VENV}}/bin/mypy .
 
+run:
+    {{PYTHON}} nocarz/api/main.py
+
 clean:
     rm -rf __pycache__/
     rm -rf .mypy_cache/
