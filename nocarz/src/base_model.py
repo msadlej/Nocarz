@@ -32,7 +32,7 @@ class BaseModel:
 
         self._data = self._data.append(listing, ignore_index=True)
 
-    def make_prediction(self, host_id: int) -> tuple[dict[str, Any], str]:
+    def predict(self, host_id: int) -> tuple[dict[str, Any], str]:
         """
         Make predictions for a single listing.
 
