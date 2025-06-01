@@ -40,6 +40,8 @@ just run
 ├── models             <- Trained and serialized models, model predictions, or model summaries.
 │
 ├── notebooks          <- Jupyter notebooks.
+|
+├── results            <- Generated results and logs.
 │
 ├── pyproject.toml     <- Configuration file for mypy.
 │
@@ -50,6 +52,9 @@ just run
 └── nocarz             <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes nocarz a Python module.
+    ├── api                     <- API endpoints for the microservice.
+    ├── src                     <- Source code for the project.
+    ├── config.py               <- Configuration file for the project.
 ```
 
 --------
