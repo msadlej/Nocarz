@@ -27,7 +27,9 @@ just run
 ```
 ├── Justfile           <- Justfile with convenience commands
 ├── README.md          <- The top-level README for developers using this project.
-├── data               <- Data for training the models.
+├── data
+│   ├── processed      <- The final, canonical data sets for modeling.
+│   └── raw            <- The original, immutable data dump.
 │
 ├── docs               <- Documentation for the project.
 │
