@@ -1,8 +1,8 @@
 from fastapi import FastAPI, Response
 import uvicorn
 
-from nocarz.api.utils import get_base_prediction
-from nocarz.api.schemas import ListingResponse
+from nocarz.api.utils import get_base_prediction, get_advanced_prediction
+from nocarz.api.schemas import ListingResponse, ListingRequest
 from nocarz.config import HOST, PORT
 
 
@@ -17,6 +17,11 @@ def read_root():
 @app.post("/predict/base", response_model=ListingResponse)
 async def predict_base(host_id: int) -> ListingResponse:
     return get_base_prediction(host_id)
+
+
+@app.post("/predict/advanced", response_model=ListingResponse)
+async def predict_advanced(listing: ListingRequest) -> ListingResponse:
+    return get_advanced_prediction(listing)
 
 
 if __name__ == "__main__":
