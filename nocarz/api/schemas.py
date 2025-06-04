@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+from typing import Optional
 
 
 class ListingRequest(BaseModel):
@@ -22,3 +23,9 @@ class ListingResponse(BaseModel):
     bedrooms: int
     beds: int
     price: float
+
+
+class AdvancedListingRequest(BaseModel):
+    name: str
+    description: str
+    neighbourhood: Optional[str] = ""
