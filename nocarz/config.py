@@ -10,5 +10,10 @@ MODELS_DIR = PROJ_ROOT / "models"
 RESULTS_DIR = PROJ_ROOT / "results"
 LOGS_DIR = RESULTS_DIR / "logs"
 
+ID_COLUMNS = ['id', 'host_id']
+INPUT_COLUMNS = ["name", "description", "neighbourhood"]
+NUMERICAL_TARGETS = ['accommodates', 'bathrooms', 'bedrooms', 'beds', 'price']
+CATEGORICAL_TARGETS = ['property_type', 'room_type', 'bathrooms_text', 'neighbourhood', 'name', 'description']
+
 HOST = "0.0.0.0"
 PORT = 8080
