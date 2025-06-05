@@ -114,7 +114,7 @@ class BaseModel:
         values = values.dropna()
         if len(values) > 0:
             return values.median()
-        return None
+        return 0
 
     @staticmethod
     def _predict_categorical(values: pd.Series) -> Any:
@@ -130,8 +130,8 @@ class BaseModel:
 
         values = values.dropna()
         if len(values) > 0:
-            return values.mode().iloc[0] if len(values.mode()) > 0 else None
-        return None
+            return values.mode().iloc[0] if len(values.mode()) > 0 else ""
+        return ""
 
     @staticmethod
     def evaluate_predictions(predictions: dict, true_values: dict) -> dict:
