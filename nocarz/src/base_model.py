@@ -72,7 +72,7 @@ class BaseModel:
             filepath (str): Path where the model should be saved.
         """
 
-        with open(filepath, 'wb') as f:
+        with open(filepath, "wb") as f:
             pickle.dump(self._data, f)
 
     def load(self, filepath: str) -> None:
@@ -83,7 +83,7 @@ class BaseModel:
             filepath (str): Path to the saved model file.
         """
 
-        with open(filepath, 'rb') as f:
+        with open(filepath, "rb") as f:
             self._data = pickle.load(f)
 
     def _get_user_listings(self, host_id: int) -> pd.DataFrame:
