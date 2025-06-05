@@ -2,6 +2,7 @@ from sklearn.multioutput import MultiOutputRegressor, MultiOutputClassifier
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import LabelEncoder
+from pathlib import Path
 import pandas as pd
 import pickle
 
@@ -108,7 +109,7 @@ class AdvancedModel:
 
         return result
 
-    def save(self, filepath: str) -> None:
+    def save(self, filepath: Path) -> None:
         with open(filepath, "wb") as f:
             pickle.dump(
                 {
@@ -121,7 +122,7 @@ class AdvancedModel:
                 f,
             )
 
-    def load(self, filepath: str) -> None:
+    def load(self, filepath: Path) -> None:
         with open(filepath, "rb") as f:
             state = pickle.load(f)
             self._vectorizer = state["vectorizer"]

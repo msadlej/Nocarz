@@ -1,3 +1,4 @@
+from pathlib import Path
 from typing import Any
 import pandas as pd
 import pickle
@@ -64,7 +65,7 @@ class BaseModel:
 
         return predictions, data_type
 
-    def save(self, filepath: str) -> None:
+    def save(self, filepath: Path) -> None:
         """
         Save the trained model to a file using pickle.
 
@@ -75,7 +76,7 @@ class BaseModel:
         with open(filepath, "wb") as f:
             pickle.dump(self._data, f)
 
-    def load(self, filepath: str) -> None:
+    def load(self, filepath: Path) -> None:
         """
         Load a trained model from a file using pickle.
 
