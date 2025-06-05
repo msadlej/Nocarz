@@ -41,7 +41,7 @@ just run
 │
 ├── notebooks          <- Jupyter notebooks.
 |
-├── results            <- Generated results and logs.
+├── logs               <- Generated logs.
 │
 ├── pyproject.toml     <- Configuration file for mypy.
 │
