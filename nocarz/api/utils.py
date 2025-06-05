@@ -1,15 +1,10 @@
-from nocarz.config import MODELS_DIR, LOGS_DIR
-from nocarz.api.schemas import ListingResponse, ListingRequest
-from nocarz.src.base_model import BaseModel
 from datetime import datetime
 import pandas as pd
-import pickle
 
-
-regressor_path = MODELS_DIR / "random_forest_regressor.pkl"
-classifier_path = MODELS_DIR / "random_forest_classifier.pkl"
-vectorizer_path = MODELS_DIR / "tfidf_vectorizer.pkl"
-label_encoders_path = MODELS_DIR / "label_encoders.pkl"
+from nocarz.api.schemas import ListingResponse, ListingRequest
+from nocarz.src.advanced_model import AdvancedModel
+from nocarz.config import MODELS_DIR, LOGS_DIR
+from nocarz.src.base_model import BaseModel
 
 
 def get_base_prediction(listing: ListingRequest) -> ListingResponse:
@@ -50,33 +45,27 @@ def get_base_prediction(listing: ListingRequest) -> ListingResponse:
 
 
 def get_advanced_prediction(listing: ListingRequest) -> ListingResponse:
-    with open(regressor_path, "rb") as f:
-        regressor = pickle.load(f)
-    with open(classifier_path, "rb") as f:
-        classifier = pickle.load(f)
-    with open(vectorizer_path, "rb") as f:
-        vectorizer = pickle.load(f)
-    with open(label_encoders_path, "rb") as f:
-        le_dict = pickle.load(f)
+    advanced_model = AdvancedModel()
+    advanced_model.load(MODELS_DIR / "advanced_model.pkl")
 
-    text_input = " ".join([listing.name, listing.description, listing.neighbourhood or ""])
-    X_text = vectorizer.transform([text_input])
-
-    y_pred_reg = regressor.predict(X_text)[0]
-    y_pred_cls = classifier.predict(X_text)[0]
-
-    categorical_cols = ["property_type", "room_type", "bathrooms_text"]
-    decoded_cls = {col: le_dict[col].inverse_transform([y_pred_cls[i]])[0] for i, col in enumerate(categorical_cols)}
+    df = pd.DataFrame(
+        {
+            "name": [listing.name],
+            "description": [listing.description],
+            "neighbourhood": [listing.neighbourhood],
+        }
+    )
+    pred = advanced_model.predict(df)
 
     result = ListingResponse(
-        property_type=decoded_cls["property_type"],
-        room_type=decoded_cls["room_type"],
-        bathrooms_text=decoded_cls["bathrooms_text"],
-        accommodates=int(round(y_pred_reg[0])),
-        bathrooms=int(round(y_pred_reg[1])),
-        bedrooms=int(round(y_pred_reg[2])),
-        beds=int(round(y_pred_reg[3])),
-        price=float(round(y_pred_reg[4], 2)),
+        property_type=pred["property_type"],
+        room_type=pred["room_type"],
+        bathrooms_text=pred["bathrooms_text"],
+        accommodates=int(round(pred["accommodates"])),
+        bathrooms=int(round(pred["bathrooms"])),
+        bedrooms=int(round(pred["bedrooms"])),
+        beds=int(round(pred["beds"])),
+        price=float(round(pred["price"], 2)),
     )
 
     log = pd.DataFrame(

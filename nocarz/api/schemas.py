@@ -1,11 +1,11 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class ListingRequest(BaseModel):
     host_id: int
     name: str
     description: str
-    neighbourhood: str
+    neighbourhood: str = Field(default="")
 
 
 class ListingResponse(BaseModel):
