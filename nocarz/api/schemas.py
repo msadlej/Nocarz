@@ -2,6 +2,7 @@ from pydantic import BaseModel, Field
 
 
 class ListingRequest(BaseModel):
+    id: int
     host_id: int
     name: str
     description: str

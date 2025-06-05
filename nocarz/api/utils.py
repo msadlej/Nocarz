@@ -42,6 +42,7 @@ def get_base_prediction(listing: ListingRequest) -> ListingResponse:
             "timestamp": [datetime.now().strftime("%d/%m/%Y %H:%M:%S")],
             "model": ["base"],
             "type": [type],
+            "id": [listing.id],
             "host_id": [listing.host_id],
             "property_type": [result.property_type],
             "room_type": [result.room_type],
@@ -97,6 +98,7 @@ def get_advanced_prediction(listing: ListingRequest) -> ListingResponse:
             "timestamp": [datetime.now().strftime("%d/%m/%Y %H:%M:%S")],
             "model": ["advanced"],
             "type": ["features"],
+            "id": [listing.id],
             "host_id": [listing.host_id],
             "property_type": [result.property_type],
             "room_type": [result.room_type],
@@ -189,6 +191,7 @@ def create_listing_request(row: pd.Series) -> dict:
     """
 
     return {
+        "id": int(row["id"]),
         "host_id": int(row["host_id"]),
         "name": safe_str(row.get("name")),
         "description": safe_str(row.get("description")),
