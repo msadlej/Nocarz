@@ -1,5 +1,5 @@
 from nocarz.config import MODELS_DIR, LOGS_DIR
-from nocarz.api.schemas import ListingResponse, AdvancedListingRequest
+from nocarz.api.schemas import ListingResponse, ListingRequest
 from nocarz.src.base_model import BaseModel
 from datetime import datetime
 import pandas as pd
@@ -12,11 +12,11 @@ vectorizer_path = MODELS_DIR / "tfidf_vectorizer.pkl"
 label_encoders_path = MODELS_DIR / "label_encoders.pkl"
 
 
-def get_base_prediction(host_id: int) -> ListingResponse:
+def get_base_prediction(listing: ListingRequest) -> ListingResponse:
     base_model = BaseModel()
     base_model.load(MODELS_DIR / "base_model.pkl")
 
-    pred, type = base_model.predict(host_id)
+    pred, type = base_model.predict(listing.host_id)
     result = ListingResponse(
         property_type=pred["property_type"],
         room_type=pred["room_type"],
@@ -33,7 +33,7 @@ def get_base_prediction(host_id: int) -> ListingResponse:
             "timestamp": [datetime.now().strftime("%d/%m/%Y %H:%M:%S")],
             "model": ["base"],
             "type": [type],
-            "host_id": [host_id],
+            "host_id": [listing.host_id],
             "property_type": [result.property_type],
             "room_type": [result.room_type],
             "bathrooms_text": [result.bathrooms_text],
@@ -49,7 +49,7 @@ def get_base_prediction(host_id: int) -> ListingResponse:
     return result
 
 
-def get_advanced_prediction(listing: AdvancedListingRequest) -> ListingResponse:
+def get_advanced_prediction(listing: ListingRequest) -> ListingResponse:
     with open(regressor_path, "rb") as f:
         regressor = pickle.load(f)
     with open(classifier_path, "rb") as f:
@@ -84,7 +84,7 @@ def get_advanced_prediction(listing: AdvancedListingRequest) -> ListingResponse:
             "timestamp": [datetime.now().strftime("%d/%m/%Y %H:%M:%S")],
             "model": ["advanced"],
             "type": ["features"],
-            "host_id": [-1],
+            "host_id": [listing.host_id],
             "property_type": [result.property_type],
             "room_type": [result.room_type],
             "bathrooms_text": [result.bathrooms_text],

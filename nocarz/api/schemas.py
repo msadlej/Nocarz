@@ -1,17 +1,11 @@
 from pydantic import BaseModel
-from typing import Optional
 
 
 class ListingRequest(BaseModel):
     host_id: int
-    property_type: str
-    room_type: str
-    bathrooms_text: str
-    accommodates: int
-    bathrooms: float
-    bedrooms: int
-    beds: int
-    price: float
+    name: str
+    description: str
+    neighbourhood: str
 
 
 class ListingResponse(BaseModel):
@@ -23,9 +17,3 @@ class ListingResponse(BaseModel):
     bedrooms: int
     beds: int
     price: float
-
-
-class AdvancedListingRequest(BaseModel):
-    name: str
-    description: str
-    neighbourhood: Optional[str] = ""

@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 
 
-NUMERICAL_COLUMNS = ["accommodates", "bathrooms", "bedrooms", "beds", "price"]
-CATEGORICAL_COLUMNS = ["property_type", "room_type", "bathrooms_text"]
+NUMERICAL_TARGETS = ["accommodates", "bathrooms", "bedrooms", "beds", "price"]
+CATEGORICAL_TARGETS = ["property_type", "room_type", "bathrooms_text"]
 
 
 class BaseModel:
@@ -32,7 +32,7 @@ class BaseModel:
 
         self._data = self._data.append(listing, ignore_index=True)
 
-    def predict(self, host_id: int) -> tuple[dict[str, Any], str]:
+    def predict(self, host_id: int) -> tuple:
         """
         Make predictions for a single listing.
 
@@ -50,13 +50,13 @@ class BaseModel:
         data_type = "user" if len(user_data) > 0 else "global"
 
         predictions = {}
-        for col in NUMERICAL_COLUMNS:
+        for col in NUMERICAL_TARGETS:
             if col in data.columns:
                 predictions[col] = self._predict_numerical(data[col])
             else:
                 predictions[col] = None
 
-        for col in CATEGORICAL_COLUMNS:
+        for col in CATEGORICAL_TARGETS:
             if col in data.columns:
                 predictions[col] = self._predict_categorical(data[col])
             else:
@@ -148,13 +148,13 @@ class BaseModel:
 
         results = {}
 
-        for col in NUMERICAL_COLUMNS + CATEGORICAL_COLUMNS:
+        for col in NUMERICAL_TARGETS + CATEGORICAL_TARGETS:
             if col in true_values and col in predictions:
                 pred = predictions[col]
                 true = true_values[col]
 
                 if pred is not None and pd.notna(true):
-                    if col in CATEGORICAL_COLUMNS:
+                    if col in CATEGORICAL_TARGETS:
                         match = str(pred) == str(true)
                         results[col] = {
                             "predicted": pred,
