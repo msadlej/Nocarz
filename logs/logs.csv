@@ -1,1 +1,553 @@
 timestamp,model,type,id,host_id,property_type,room_type,bathrooms_text,accommodates,bathrooms,bedrooms,beds,price
+05/06/2025 17:50:34,advanced,features,1313778747693073613,452530804,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,269.46
+05/06/2025 17:50:34,advanced,features,1045470205489259170,219864375,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,136.63
+05/06/2025 17:50:34,base,global,607095188029234835,261751391,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,662967028159660759,467440074,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,928777550909761411,10917484,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,47282869,14644634,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,1278220412318532946,47687116,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,advanced,features,898382628080107628,261144824,Entire rental unit,Entire home/apt,1 bath,4,2,2,2,181.08
+05/06/2025 17:50:34,base,user,1317911203492816059,599058527,Entire condo,Entire home/apt,0 baths,2,0,1,1,128.0
+05/06/2025 17:50:34,base,global,1025370627438190768,38567986,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,1192540080419515782,61124466,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,798457455256234063,737759,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,advanced,features,633804867799448365,12766121,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,87.17
+05/06/2025 17:50:34,base,global,845669525445019165,85274006,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,base,global,42595167,10291429,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:34,advanced,features,770670754416725384,139753179,Private room in rental unit,Private room,1 shared bath,2,1,1,1,72.95
+05/06/2025 17:50:34,advanced,features,679836515246161250,437010693,Entire rental unit,Entire home/apt,1 bath,3,1,2,2,156.64
+05/06/2025 17:50:34,advanced,features,589471800601609591,451027999,Entire rental unit,Entire home/apt,1 bath,3,2,2,1,151.96
+05/06/2025 17:50:34,advanced,features,1300910623269747564,25845302,Entire rental unit,Entire home/apt,1 bath,3,2,1,1,179.51
+05/06/2025 17:50:34,advanced,features,8080654,3737690,Entire rental unit,Entire home/apt,1 bath,3,2,1,1,145.85
+05/06/2025 17:50:34,base,global,1250105227987826378,99582273,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,advanced,features,1261529731019353508,455299066,Entire rental unit,Entire home/apt,1 bath,4,1,3,3,154.03
+05/06/2025 17:50:35,advanced,features,33728757,84968795,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,150.28
+05/06/2025 17:50:35,advanced,features,22722210,31307191,Private room in rental unit,Private room,1 shared bath,2,1,1,1,62.44
+05/06/2025 17:50:35,base,global,21031079,151480148,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,base,global,31404215,36366684,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,base,user,51834304,419901673,Entire condo,Entire home/apt,1 bath,1,1,1,1,94.0
+05/06/2025 17:50:35,base,user,1287970535339770861,659980121,Private room in rental unit,Private room,1.5 shared baths,2,2,1,1,62.0
+05/06/2025 17:50:35,advanced,features,1157130322307965190,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,2,1,129.98
+05/06/2025 17:50:35,advanced,features,22742579,167921496,Private room in rental unit,Entire home/apt,1 shared bath,9,2,3,4,263.14
+05/06/2025 17:50:35,base,global,1237635694382960883,160217061,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,advanced,features,1071699811999556808,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,107.32
+05/06/2025 17:50:35,advanced,features,1183080974724294505,421871682,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,130.97
+05/06/2025 17:50:35,advanced,features,45664714,43751486,Private room in rental unit,Entire home/apt,1 bath,2,1,1,1,90.32
+05/06/2025 17:50:35,base,global,1029507724323485956,93896925,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,base,global,40030021,308730896,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,base,user,9874799,325495,Entire rental unit,Entire home/apt,1 bath,4,1,2,2,100.0
+05/06/2025 17:50:35,advanced,features,1320187730227740458,37383042,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,143.76
+05/06/2025 17:50:35,advanced,features,27259132,43688846,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,149.9
+05/06/2025 17:50:35,advanced,features,1256434893633978877,469597868,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,147.12
+05/06/2025 17:50:35,base,global,791329717065474115,493038705,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,advanced,features,1075136378120832628,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,200.24
+05/06/2025 17:50:35,base,user,1067265669202547259,525379870,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,190.0
+05/06/2025 17:50:35,base,global,40054107,32044564,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,base,global,973076962697385224,490486052,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:35,advanced,features,53995282,394516021,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,128.4
+05/06/2025 17:50:36,advanced,features,50837772,2061720,Entire rental unit,Entire home/apt,1 bath,4,3,3,2,403.97
+05/06/2025 17:50:36,advanced,features,50905068,16860675,Private room in rental unit,Private room,1 bath,2,1,1,1,65.68
+05/06/2025 17:50:36,advanced,features,20709398,3528377,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,120.57
+05/06/2025 17:50:36,advanced,features,684864540512562378,117023667,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,265.32
+05/06/2025 17:50:36,base,global,53198401,430660822,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:36,advanced,features,1144333524887569540,574562227,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,141.86
+05/06/2025 17:50:36,advanced,features,26699026,194994154,Private room in rental unit,Private room,1 shared bath,2,1,1,1,150.28
+05/06/2025 17:50:36,base,user,1187411772546390930,48768941,Private room in bed and breakfast,Private room,1 shared bath,3,1,1,2,80.0
+05/06/2025 17:50:36,advanced,features,1238185749230942889,34337869,Entire rental unit,Private room,1 bath,2,1,1,1,76.48
+05/06/2025 17:50:36,advanced,features,1319353272672215826,269431889,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,134.22
+05/06/2025 17:50:36,advanced,features,1079107998870669522,252361281,Private room in rental unit,Private room,1 bath,2,1,1,1,82.66
+05/06/2025 17:50:36,advanced,features,1072261068043836630,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,101.27
+05/06/2025 17:50:36,advanced,features,1061579880308075422,61977017,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,174.89
+05/06/2025 17:50:36,advanced,features,1070986310420009593,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,104.62
+05/06/2025 17:50:36,base,global,799829553158314572,6398041,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:36,advanced,features,1179787,6454455,Private room in rental unit,Private room,1 bath,2,3,2,2,625.96
+05/06/2025 17:50:36,advanced,features,1176993419804764501,582893819,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,125.73
+05/06/2025 17:50:37,advanced,features,903718734252246823,517583468,Private room in rental unit,Private room,1 shared bath,1,1,1,1,56.15
+05/06/2025 17:50:37,base,global,20008477,139886894,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,advanced,features,26230721,119888913,Private room in rental unit,Private room,1 shared bath,2,1,2,4,144.55
+05/06/2025 17:50:37,advanced,features,9491456,46143912,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,137.57
+05/06/2025 17:50:37,base,user,43455627,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:37,advanced,features,1227432962688501813,597271005,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,127.77
+05/06/2025 17:50:37,advanced,features,680189506534050773,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,119.55
+05/06/2025 17:50:37,base,global,673260411566648421,77141593,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,base,user,1289885869334676601,579907192,Entire rental unit,Entire home/apt,1 bath,4,1,0,2,75.0
+05/06/2025 17:50:37,base,global,29116006,176168,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,advanced,features,830900724889772528,3528377,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,113.29
+05/06/2025 17:50:37,advanced,features,1298054038948376360,155002599,Entire rental unit,Entire home/apt,1 bath,3,1,2,2,169.48
+05/06/2025 17:50:37,advanced,features,798986163884085982,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,127.02
+05/06/2025 17:50:37,base,user,1172637998195817450,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:37,base,global,577915520314783955,437980136,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,base,global,742578048997180368,236949169,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,base,global,52618612,420633767,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,advanced,features,1137585232155199397,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,0,1,127.56
+05/06/2025 17:50:37,advanced,features,1135961970505738948,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,162.12
+05/06/2025 17:50:37,advanced,features,1080400025703959793,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,113.61
+05/06/2025 17:50:37,base,user,1172647283315987755,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:37,advanced,features,1102425232146076976,312218653,Private room in rental unit,Private room,1 bath,2,1,1,1,72.01
+05/06/2025 17:50:37,base,user,1241123842112533649,579907192,Entire rental unit,Entire home/apt,1 bath,4,1,0,2,75.0
+05/06/2025 17:50:37,base,global,1006520123902174696,202798318,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,base,global,875336479722762809,81508074,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,base,global,846055967372305254,7929655,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,advanced,features,15869970,102878018,Private room in rental unit,Private room,1 bath,1,1,1,1,76.14
+05/06/2025 17:50:37,base,global,50802022,410604598,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,base,global,645445299259662472,95155626,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:37,advanced,features,22665542,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,136.7
+05/06/2025 17:50:38,advanced,features,1080411739403589469,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,103.83
+05/06/2025 17:50:38,advanced,features,54362121,61348630,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,136.49
+05/06/2025 17:50:38,base,global,41652050,328533977,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,advanced,features,928170975587825372,273734321,Entire rental unit,Entire home/apt,1 bath,4,1,2,3,218.54
+05/06/2025 17:50:38,base,user,14391047,69314561,Private room in rental unit,Private room,1.5 shared baths,1,2,1,0,80.0
+05/06/2025 17:50:38,base,global,16309343,53014632,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,base,global,3102373,4603456,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,advanced,features,49252572,42301506,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,254.45
+05/06/2025 17:50:38,base,user,1307212623031348589,99449935,Entire rental unit,Entire home/apt,1 bath,3,1,1,0,84.0
+05/06/2025 17:50:38,base,user,52176655,422383426,Room in hotel,Private room,1 private bath,2,1,1,2,140.0
+05/06/2025 17:50:38,advanced,features,9388057,48699659,Private room in rental unit,Private room,1 bath,2,1,1,1,68.83
+05/06/2025 17:50:38,base,global,28534716,6271674,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,base,global,714445730839744532,467440074,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,base,user,1207134973485763617,591624723,Room in hotel,Private room,1 private bath,2,1,1,2,152.0
+05/06/2025 17:50:38,advanced,features,1135649747603995462,54219547,Private room in rental unit,Private room,1 bath,2,1,1,1,143.33
+05/06/2025 17:50:38,advanced,features,1075260928330248388,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,103.88
+05/06/2025 17:50:38,base,user,1294385594305244204,492194189,Entire rental unit,Entire home/apt,1.5 baths,5,0,2,0,0.0
+05/06/2025 17:50:38,advanced,features,826667325468381547,125853790,Entire rental unit,Entire home/apt,1 bath,4,2,2,2,180.66
+05/06/2025 17:50:38,base,user,923004230182893169,419901673,Entire condo,Entire home/apt,1 bath,1,1,1,1,94.0
+05/06/2025 17:50:38,base,global,23736667,45436152,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,advanced,features,34218013,68620774,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,333.62
+05/06/2025 17:50:38,base,global,3384278,17074167,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,advanced,features,630135513920463257,103071235,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,108.22
+05/06/2025 17:50:38,base,global,15286007,96290340,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,advanced,features,1240715031196924010,569896530,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,120.78
+05/06/2025 17:50:38,base,user,1251874018437712312,579907192,Entire rental unit,Entire home/apt,1 bath,4,1,0,2,75.0
+05/06/2025 17:50:38,base,global,7117459,5740361,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,advanced,features,1217266223548780085,71807788,Entire rental unit,Entire home/apt,1 bath,4,1,2,3,195.38
+05/06/2025 17:50:38,advanced,features,912250150418639055,515570309,Entire rental unit,Entire home/apt,1 bath,3,2,3,3,161.6
+05/06/2025 17:50:38,base,user,30489466,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:38,base,global,22399642,7406645,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:38,base,global,27286394,48260574,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,advanced,features,1075279547053257430,273734321,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,173.9
+05/06/2025 17:50:39,advanced,features,1072298537173710018,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,95.91
+05/06/2025 17:50:39,advanced,features,32831598,54037059,Private room in rental unit,Private room,1 bath,2,1,1,1,82.82
+05/06/2025 17:50:39,base,user,1243400277205468123,81850768,Entire rental unit,Entire home/apt,1 bath,4,1,1,2,135.0
+05/06/2025 17:50:39,advanced,features,1287560366030103036,498135856,Private room in rental unit,Private room,1 bath,1,1,1,1,58.59
+05/06/2025 17:50:39,advanced,features,1292083131636903271,31307191,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,108.63
+05/06/2025 17:50:39,advanced,features,1091701821898459497,18086775,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,147.82
+05/06/2025 17:50:39,base,global,758661112451015342,4109003,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,global,1268002560519409108,502159827,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,global,18818818,9132937,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,user,46590823,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:39,advanced,features,1088415166643261702,9934472,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,207.27
+05/06/2025 17:50:39,advanced,features,1702148,8985240,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,118.94
+05/06/2025 17:50:39,advanced,features,23518268,3528377,Entire rental unit,Entire home/apt,1 bath,3,2,1,1,178.73
+05/06/2025 17:50:39,advanced,features,8147327,30455987,Private room in rental unit,Entire home/apt,1 bath,2,1,1,2,97.61
+05/06/2025 17:50:39,advanced,features,1006239975037788904,46143912,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,110.67
+05/06/2025 17:50:39,advanced,features,1126740962197335555,181070318,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,249.67
+05/06/2025 17:50:39,base,global,1283959096374654325,175602721,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,user,45689697,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:39,base,global,690523054805437317,332614165,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,user,4320491,22431546,Private room in home,Private room,1 shared bath,1,0,0,0,0.0
+05/06/2025 17:50:39,base,global,790393161897329772,242366018,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,global,1186041534010710995,295403961,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,base,user,842552093977524947,422383426,Room in hotel,Private room,1 private bath,2,1,1,2,140.0
+05/06/2025 17:50:39,base,global,53424207,14227376,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:39,advanced,features,609758279324512142,413540292,Private room in rental unit,Private room,1 shared bath,2,1,1,1,87.02
+05/06/2025 17:50:39,advanced,features,37847327,237397206,Private room in rental unit,Private room,1 bath,3,1,1,2,90.29
+05/06/2025 17:50:40,advanced,features,940835011572596866,474825541,Private room in rental unit,Private room,1 shared bath,2,1,1,1,64.42
+05/06/2025 17:50:40,advanced,features,1237534023548098722,284717075,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,247.97
+05/06/2025 17:50:40,advanced,features,947655980071768674,46143912,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,92.94
+05/06/2025 17:50:40,base,global,551192994960907593,31723607,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:40,advanced,features,21692262,10508648,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,114.16
+05/06/2025 17:50:40,advanced,features,16355741,82128281,Private room in rental unit,Private room,1 shared bath,2,1,1,1,76.8
+05/06/2025 17:50:40,advanced,features,614246415754662870,221841880,Private room in rental unit,Private room,1 bath,2,1,1,1,72.18
+05/06/2025 17:50:40,base,global,43193305,251550288,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:40,base,global,965068297872307375,3487763,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:40,base,global,1290449076961961139,661653964,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:40,base,user,1241203707321704318,521400552,Private room in rental unit,Private room,1 shared bath,3,1,1,2,86.0
+05/06/2025 17:50:40,base,user,30924384,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:40,advanced,features,1080363316944811611,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,110.22
+05/06/2025 17:50:40,base,user,1174755516626026794,522961602,Private room in rental unit,Private room,1.5 shared baths,2,0,0,0,0.0
+05/06/2025 17:50:40,advanced,features,1035438237855083285,362530644,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,162.78
+05/06/2025 17:50:40,advanced,features,736252700936611662,310505681,Entire rental unit,Entire home/apt,1 bath,3,2,3,3,156.39
+05/06/2025 17:50:40,base,user,39350716,287909571,Private room in home,Private room,1 shared bath,1,1,1,1,65.0
+05/06/2025 17:50:40,base,global,23237285,73784186,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:40,base,user,11377087,9675348,Private room in casa particular,Private room,1 bath,2,1,1,1,62.5
+05/06/2025 17:50:40,advanced,features,724461011805372155,3528377,Entire rental unit,Entire home/apt,1 bath,5,1,2,3,255.51
+05/06/2025 17:50:40,advanced,features,1242492360111220974,168522583,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,322.74
+05/06/2025 17:50:40,base,user,2940931,13921113,Private room in rental unit,Private room,1 shared bath,1,1,1,1,52.0
+05/06/2025 17:50:40,advanced,features,575026973630209781,103071235,Entire rental unit,Entire home/apt,1 bath,4,1,2,3,383.43
+05/06/2025 17:50:40,advanced,features,547449227038374518,24312206,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,125.79
+05/06/2025 17:50:40,advanced,features,1070848793492922800,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,104.34
+05/06/2025 17:50:40,advanced,features,17774350,18734849,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,153.9
+05/06/2025 17:50:41,advanced,features,2336814,9005801,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,537.22
+05/06/2025 17:50:41,advanced,features,812934576363615060,85943084,Private room in rental unit,Private room,1 bath,2,1,1,2,88.37
+05/06/2025 17:50:41,advanced,features,33840294,3967381,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,131.25
+05/06/2025 17:50:41,advanced,features,37144047,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,157.11
+05/06/2025 17:50:41,base,global,16531834,108744458,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:41,base,global,22174300,157070817,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:41,base,user,46804636,221816262,Entire condo,Entire home/apt,1 bath,1,1,0,1,120.0
+05/06/2025 17:50:41,advanced,features,53934289,435158148,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,103.42
+05/06/2025 17:50:41,base,global,771018793096207866,34436602,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:41,base,user,931637233596349885,128204859,Private room in home,Private room,1 shared bath,1,1,1,1,60.0
+05/06/2025 17:50:41,advanced,features,1312415857347421923,2729428,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,128.24
+05/06/2025 17:50:41,advanced,features,865947001926922099,18213310,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,148.21
+05/06/2025 17:50:41,advanced,features,50095544,170201705,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,155.51
+05/06/2025 17:50:41,base,user,6382351,8287850,Entire serviced apartment,Entire home/apt,1.5 baths,5,2,2,2,629.0
+05/06/2025 17:50:41,advanced,features,1065810138185222285,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,106.59
+05/06/2025 17:50:41,base,user,1101193831992948216,12540718,Entire rental unit,Entire home/apt,1 bath,2,1,2,2,75.0
+05/06/2025 17:50:41,base,global,11814447,5437523,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:41,advanced,features,1141454997100265415,573830909,Private room in rental unit,Private room,1 bath,2,2,1,1,226.32
+05/06/2025 17:50:41,advanced,features,854436841604592230,49806041,Private room in rental unit,Private room,1 shared bath,2,1,1,1,82.14
+05/06/2025 17:50:41,advanced,features,999123203139905876,93292062,Private room in rental unit,Private room,1 shared bath,2,1,1,1,64.67
+05/06/2025 17:50:41,base,global,32787062,246628198,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:41,advanced,features,808766182745360296,497120896,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,117.07
+05/06/2025 17:50:41,base,global,1140988292916182321,9389502,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:41,advanced,features,1080330390772633253,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,103.05
+05/06/2025 17:50:42,advanced,features,48184618,108282350,Private room in rental unit,Private room,1 shared bath,2,2,2,1,63.0
+05/06/2025 17:50:42,advanced,features,877977718537299895,511825709,Entire rental unit,Entire home/apt,1 bath,4,1,1,2,125.31
+05/06/2025 17:50:42,base,global,1197108381423095569,587856410,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:42,advanced,features,1119504728162372946,44666245,Entire rental unit,Entire home/apt,1 bath,5,2,3,3,181.46
+05/06/2025 17:50:42,advanced,features,51357056,94673785,Entire rental unit,Entire home/apt,1 bath,3,2,2,2,267.34
+05/06/2025 17:50:42,advanced,features,1156395336017172492,147737371,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.35
+05/06/2025 17:50:42,advanced,features,631502827768560528,103071235,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,125.52
+05/06/2025 17:50:42,advanced,features,1280253910289838978,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,160.06
+05/06/2025 17:50:42,advanced,features,910775763127558139,22637525,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,186.68
+05/06/2025 17:50:42,base,global,1176756802592291759,5221348,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:42,advanced,features,1191800763662934218,16414976,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,141.0
+05/06/2025 17:50:42,advanced,features,1155715194004643922,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,97.33
+05/06/2025 17:50:42,advanced,features,20669530,3737690,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,108.28
+05/06/2025 17:50:42,base,global,710004300855501173,20631825,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:42,base,user,44457008,357435896,Room in hotel,Private room,1 private bath,2,1,1,1,198.0
+05/06/2025 17:50:42,base,user,44112194,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:42,base,user,21479760,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:42,advanced,features,21764924,21195202,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,143.96
+05/06/2025 17:50:42,advanced,features,1706604,9005801,Entire rental unit,Entire home/apt,1 bath,4,1,2,3,213.15
+05/06/2025 17:50:42,base,global,665661338180313597,405553481,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:42,base,global,867801331874158300,490712280,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:42,advanced,features,1273123298371099935,79649601,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,137.21
+05/06/2025 17:50:43,advanced,features,1017461361407514905,494924033,Private room in rental unit,Private room,1 bath,2,1,1,1,84.64
+05/06/2025 17:50:43,base,global,775129472226527634,5803753,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:43,advanced,features,39391081,22637525,Entire rental unit,Entire home/apt,1 bath,4,1,1,1,174.06
+05/06/2025 17:50:43,base,global,2577285,10012541,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:43,base,user,15481869,82480781,Private room in rental unit,Private room,1 shared bath,2,1,1,1,200.0
+05/06/2025 17:50:43,advanced,features,1119551568467510805,36695139,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,110.65
+05/06/2025 17:50:43,base,global,658251979886463062,10806629,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:43,advanced,features,1204196997550824935,483125655,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,227.8
+05/06/2025 17:50:43,advanced,features,40740809,210159764,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,129.75
+05/06/2025 17:50:43,advanced,features,841893732826945736,5812166,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,147.04
+05/06/2025 17:50:43,advanced,features,23304254,167921496,Private room in rental unit,Private room,1 shared bath,2,1,1,2,114.32
+05/06/2025 17:50:43,base,user,598310715581549876,24254271,Private room in rental unit,Private room,1 shared bath,2,1,1,1,75.0
+05/06/2025 17:50:43,advanced,features,887731590737928446,493714228,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,106.79
+05/06/2025 17:50:43,advanced,features,815306146508346228,136949082,Private room in rental unit,Private room,1 shared bath,1,1,1,1,66.21
+05/06/2025 17:50:43,advanced,features,35450004,99969,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,198.83
+05/06/2025 17:50:43,base,global,1119572626114402438,457319456,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:43,advanced,features,1200602982720811673,533603358,Entire rental unit,Entire home/apt,1 bath,5,2,2,2,210.29
+05/06/2025 17:50:43,advanced,features,35854286,14849570,Private room in rental unit,Private room,1 bath,2,2,2,1,138.58
+05/06/2025 17:50:43,advanced,features,1184635905401295142,545688068,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,99.72
+05/06/2025 17:50:43,advanced,features,1222240310251926099,113526275,Entire rental unit,Private room,1 bath,2,1,1,1,123.95
+05/06/2025 17:50:43,advanced,features,50960546,48450653,Entire rental unit,Entire home/apt,1 bath,3,1,2,2,147.48
+05/06/2025 17:50:44,advanced,features,24988143,46643242,Private room in rental unit,Private room,1 shared bath,2,1,1,1,79.32
+05/06/2025 17:50:44,base,user,899791647469292219,387156254,Entire rental unit,Entire home/apt,1 bath,6,0,1,0,0.0
+05/06/2025 17:50:44,base,user,1271832957844470762,532353128,Entire rental unit,Entire home/apt,1.5 baths,4,2,1,2,67.0
+05/06/2025 17:50:44,base,global,1088338941454311109,561336585,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,base,global,1050136,5782036,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,advanced,features,1198460552372065508,472228228,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,179.79
+05/06/2025 17:50:44,advanced,features,941071512477833591,527210861,Entire rental unit,Entire home/apt,1 bath,6,1,3,3,142.73
+05/06/2025 17:50:44,advanced,features,1026128052126786108,179166717,Entire rental unit,Entire home/apt,1 bath,4,2,3,2,195.55
+05/06/2025 17:50:44,base,global,977388635801034160,222455985,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,advanced,features,28781148,8851864,Entire rental unit,Entire home/apt,1 bath,3,2,1,2,166.24
+05/06/2025 17:50:44,advanced,features,37173037,58967276,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,121.66
+05/06/2025 17:50:44,advanced,features,42084343,273734321,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,182.65
+05/06/2025 17:50:44,base,global,8749215,13264154,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,base,global,7847916,30401710,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,advanced,features,1669494,8839902,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,141.4
+05/06/2025 17:50:44,advanced,features,3948265,20463144,Private room in rental unit,Private room,1 bath,2,1,1,1,92.93
+05/06/2025 17:50:44,base,user,25716711,59897623,Private room in rental unit,Private room,1.5 baths,1,0,0,0,0.0
+05/06/2025 17:50:44,base,user,734507065408958756,225762429,Private room in casa particular,Private room,1 shared bath,1,1,1,1,49.0
+05/06/2025 17:50:44,advanced,features,33086710,249013048,Private room in rental unit,Private room,1 shared bath,1,1,1,1,68.15
+05/06/2025 17:50:44,advanced,features,816614634481424693,100382073,Entire home,Entire home/apt,1 bath,4,2,3,3,200.96
+05/06/2025 17:50:44,advanced,features,48228306,20196178,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,125.23
+05/06/2025 17:50:44,base,global,49056671,51726089,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,base,global,1239879319073809929,327102715,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,advanced,features,7367940,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,214.03
+05/06/2025 17:50:44,base,global,36212033,39250036,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:44,advanced,features,16449089,107892790,Private room in rental unit,Private room,1 shared bath,1,1,1,1,58.33
+05/06/2025 17:50:45,advanced,features,1004937298116337322,541784915,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,143.34
+05/06/2025 17:50:45,advanced,features,580901635569001927,447939290,Entire rental unit,Entire home/apt,1 bath,5,1,2,3,845.78
+05/06/2025 17:50:45,advanced,features,1057171998601524178,365093965,Entire rental unit,Entire home/apt,1 bath,4,1,2,2,353.87
+05/06/2025 17:50:45,advanced,features,46635051,20284415,Private room in rental unit,Private room,1 bath,2,1,1,1,63.21
+05/06/2025 17:50:45,advanced,features,6809505,30638484,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,843.58
+05/06/2025 17:50:45,advanced,features,25487069,18793821,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,109.14
+05/06/2025 17:50:45,base,user,1261909490722612735,419901673,Entire condo,Entire home/apt,1 bath,1,1,1,1,94.0
+05/06/2025 17:50:45,base,user,54205123,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:45,advanced,features,933383187040893659,3512669,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,128.6
+05/06/2025 17:50:45,advanced,features,890522319558882693,514561051,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,99.75
+05/06/2025 17:50:45,advanced,features,883173791585148389,157038918,Private room in rental unit,Private room,1 shared bath,2,1,1,1,143.9
+05/06/2025 17:50:45,base,global,48697115,12952078,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:45,advanced,features,1070906948508527119,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,136.56
+05/06/2025 17:50:45,advanced,features,639043358309833830,48450653,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,140.66
+05/06/2025 17:50:45,advanced,features,10563774,3566383,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,128.86
+05/06/2025 17:50:45,base,user,925113745189387085,513912311,Room in hotel,Private room,1 bath,2,1,1,1,100.0
+05/06/2025 17:50:45,advanced,features,1308809007207459040,86808757,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,122.19
+05/06/2025 17:50:45,base,user,1099260501031806547,120527114,Private room in rental unit,Private room,2 baths,2,2,2,4,59.5
+05/06/2025 17:50:45,base,user,8064455,5314343,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,153.0
+05/06/2025 17:50:45,advanced,features,1138878988209638318,122773989,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,145.18
+05/06/2025 17:50:45,base,global,30194680,20656996,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,20450270,47472074,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,132.95
+05/06/2025 17:50:46,base,global,1163599932900461229,573976206,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,45308529,48699659,Entire rental unit,Private room,1 bath,2,1,1,1,83.24
+05/06/2025 17:50:46,advanced,features,41837072,31307191,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,223.04
+05/06/2025 17:50:46,base,global,7450908,19144724,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,38529059,33210910,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,139.98
+05/06/2025 17:50:46,base,global,28167195,28160995,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,13646487,34337869,Private room in rental unit,Entire home/apt,1 shared bath,2,1,1,2,106.73
+05/06/2025 17:50:46,base,user,1190757835152577733,9675348,Private room in casa particular,Private room,1 bath,2,1,1,1,62.5
+05/06/2025 17:50:46,base,global,50759913,12810976,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,843284129460642376,250017748,Private room in rental unit,Private room,1 bath,2,1,1,1,111.54
+05/06/2025 17:50:46,base,user,37428032,235636662,Private room in rental unit,Private room,1.5 shared baths,1,2,0,1,62.5
+05/06/2025 17:50:46,base,user,44456815,357435896,Room in hotel,Private room,1 private bath,2,1,1,1,198.0
+05/06/2025 17:50:46,base,user,1261549945245640719,31503634,Entire rental unit,Entire home/apt,2 baths,3,2,1,2,122.0
+05/06/2025 17:50:46,advanced,features,1070902200541383947,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,105.02
+05/06/2025 17:50:46,advanced,features,1191063991481046725,11677091,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,117.92
+05/06/2025 17:50:46,base,global,13009983,2324024,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,1043337042993414914,463560319,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,121.94
+05/06/2025 17:50:46,base,user,20278644,8604667,Entire loft,Entire home/apt,1.5 baths,2,0,1,0,0.0
+05/06/2025 17:50:46,advanced,features,39333864,1343997,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,268.92
+05/06/2025 17:50:46,base,user,671519828077745146,4945628,Private room in home,Private room,1 private bath,1,0,0,0,0.0
+05/06/2025 17:50:46,advanced,features,12899329,70652566,Private room in rental unit,Private room,1 bath,1,1,1,1,100.57
+05/06/2025 17:50:46,base,global,28563953,215577081,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,40585341,53501809,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,120.39
+05/06/2025 17:50:46,base,user,826738598698570911,500206207,Private room in rental unit,Private room,1 shared bath,3,0,1,0,0.0
+05/06/2025 17:50:46,base,global,7830382,8323107,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,42328224,313543777,Entire rental unit,Entire home/apt,1 bath,4,3,3,2,400.82
+05/06/2025 17:50:46,base,global,1005846156774696396,1799530,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:46,advanced,features,14881691,3103951,Entire rental unit,Entire home/apt,1 bath,3,2,2,2,265.5
+05/06/2025 17:50:47,advanced,features,1188217562031345090,175640,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,120.36
+05/06/2025 17:50:47,base,user,1233431324999151541,10349202,Private room in rental unit,Private room,1 shared bath,1,1,1,1,71.0
+05/06/2025 17:50:47,base,global,6826162,14843844,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,base,global,840617111062979687,12212522,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,base,global,1088428003121438655,383047042,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,advanced,features,49431767,13474931,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,146.95
+05/06/2025 17:50:47,advanced,features,1125997074181527875,45649241,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,122.25
+05/06/2025 17:50:47,advanced,features,20798663,46143912,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,124.11
+05/06/2025 17:50:47,advanced,features,1190594534255822795,582893819,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,117.22
+05/06/2025 17:50:47,advanced,features,872371761435300223,8675599,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,106.05
+05/06/2025 17:50:47,advanced,features,756288557319187423,486999066,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,128.41
+05/06/2025 17:50:47,advanced,features,43999746,6085491,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,137.26
+05/06/2025 17:50:47,advanced,features,50893395,80530837,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,137.65
+05/06/2025 17:50:47,base,user,44112836,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:47,advanced,features,9836688,45213874,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,117.52
+05/06/2025 17:50:47,base,global,1096836470095585278,418677490,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,advanced,features,960343385288824827,521193805,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,129.64
+05/06/2025 17:50:47,base,user,18778594,11445748,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,106.5
+05/06/2025 17:50:47,base,global,51437325,187807039,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,base,global,18562480,3433949,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,advanced,features,902097725401024062,17762101,Private room in rental unit,Private room,1 bath,1,1,1,1,63.9
+05/06/2025 17:50:47,base,global,1132616325228256311,423542572,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,advanced,features,53468416,432746132,Private room in rental unit,Private room,1 bath,2,1,1,1,75.86
+05/06/2025 17:50:47,base,user,811708274330701126,23599590,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,78.0
+05/06/2025 17:50:47,base,global,1071509530857952310,46660435,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:47,advanced,features,23572346,157522202,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,120.7
+05/06/2025 17:50:48,advanced,features,933192666133327586,44779336,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,186.01
+05/06/2025 17:50:48,advanced,features,1199292666596852213,566020449,Private room in rental unit,Private room,1 bath,2,1,1,1,107.94
+05/06/2025 17:50:48,advanced,features,16854166,3528377,Entire rental unit,Entire home/apt,1 bath,4,2,3,3,162.44
+05/06/2025 17:50:49,advanced,features,1200594224655597921,422145860,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,108.88
+05/06/2025 17:50:49,base,user,874611116486372327,23599590,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,78.0
+05/06/2025 17:50:49,advanced,features,48397760,34927109,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,126.22
+05/06/2025 17:50:49,advanced,features,40133645,46143912,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,132.73
+05/06/2025 17:50:49,base,global,20928186,150436360,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:49,advanced,features,38132588,184293733,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,94.42
+05/06/2025 17:50:49,advanced,features,51312935,73534851,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,129.99
+05/06/2025 17:50:49,advanced,features,666499406164756237,12766121,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,180.18
+05/06/2025 17:50:49,advanced,features,9603781,3528377,Private room in rental unit,Entire home/apt,1 bath,2,1,1,1,92.14
+05/06/2025 17:50:49,base,user,50604412,408726005,Private room in rental unit,Private room,1.5 shared baths,1,2,1,1,55.0
+05/06/2025 17:50:50,advanced,features,1070941208333767156,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,127.24
+05/06/2025 17:50:50,base,user,14816058,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:50,base,global,12194712,43273367,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,base,global,1197828817663498723,382509491,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,advanced,features,1032533410333191085,849274,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,133.71
+05/06/2025 17:50:50,advanced,features,888087497245034736,242457268,Private room in rental unit,Private room,1 shared bath,2,1,1,1,69.91
+05/06/2025 17:50:50,base,user,19793809,56534532,Private room in condo,Private room,1 shared bath,2,1,1,1,95.0
+05/06/2025 17:50:50,advanced,features,1156312982212258758,73532162,Entire rental unit,Private room,1 bath,2,1,1,1,117.86
+05/06/2025 17:50:50,base,global,20470118,17946608,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,advanced,features,33290427,176981300,Private room in rental unit,Private room,1 shared bath,2,2,1,2,74.8
+05/06/2025 17:50:50,advanced,features,37066729,273734321,Entire rental unit,Entire home/apt,1 bath,3,2,2,2,224.34
+05/06/2025 17:50:50,base,global,768690595350864897,67344844,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,advanced,features,1075162106429399599,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,104.63
+05/06/2025 17:50:50,base,global,53729347,382261825,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,base,global,914522458746748864,263434003,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,advanced,features,41490843,156895742,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,144.37
+05/06/2025 17:50:50,advanced,features,1189023778404979567,3737690,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,119.35
+05/06/2025 17:50:50,base,user,1002960970674630565,541684858,Entire rental unit,Entire home/apt,1 bath,4,1,2,2,160.0
+05/06/2025 17:50:50,base,global,675809315046674030,19164491,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,base,user,5032353,10529209,Entire rental unit,Entire home/apt,2 baths,4,2,1,0,162.5
+05/06/2025 17:50:50,base,global,1043368874053932967,107655338,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,advanced,features,41837357,31307191,Private room in rental unit,Private room,1 bath,2,1,1,1,86.52
+05/06/2025 17:50:50,advanced,features,1181910764469654405,394153090,Private room in rental unit,Private room,1 bath,1,1,1,1,74.88
+05/06/2025 17:50:50,base,user,1281808398161919458,203608563,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,72.0
+05/06/2025 17:50:50,base,global,598918776046400397,22325824,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,base,global,1133903441443033065,572064236,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,base,global,11030622,13027886,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:50,base,user,11157899,24078782,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,140.0
+05/06/2025 17:50:50,advanced,features,547635909129057790,442043479,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,136.64
+05/06/2025 17:50:50,base,user,34890565,119468644,Entire rental unit,Entire home/apt,1 private bath,4,2,2,2,149.5
+05/06/2025 17:50:50,base,user,5247146,21521753,Entire rental unit,Entire home/apt,1 bath,4,0,2,0,0.0
+05/06/2025 17:50:50,advanced,features,2022387,10393752,Private room in rental unit,Private room,1 shared bath,2,1,1,1,183.0
+05/06/2025 17:50:50,advanced,features,1071615953845526149,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,155.55
+05/06/2025 17:50:50,base,global,28019485,185916674,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:51,advanced,features,911513837158075027,248005787,Entire rental unit,Entire home/apt,1 bath,4,1,1,1,210.58
+05/06/2025 17:50:51,advanced,features,843881641100464406,250017748,Room in hotel,Private room,1 bath,1,1,1,1,108.72
+05/06/2025 17:50:51,advanced,features,692661186096421243,474825541,Entire rental unit,Entire home/apt,1 bath,8,1,2,3,251.99
+05/06/2025 17:50:51,advanced,features,21599460,3528377,Private room in rental unit,Private room,1 bath,2,1,1,1,115.23
+05/06/2025 17:50:51,base,global,871437246783298423,32828663,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:51,base,user,897643083705465153,128204859,Private room in home,Private room,1 shared bath,1,1,1,1,60.0
+05/06/2025 17:50:51,advanced,features,904564790317108024,434932172,Entire rental unit,Private room,1 bath,2,1,1,1,195.52
+05/06/2025 17:50:51,advanced,features,872391335487011024,80479131,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,157.67
+05/06/2025 17:50:51,advanced,features,42850402,29267993,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,181.57
+05/06/2025 17:50:51,base,user,1028084202555914481,455942790,Private room in bed and breakfast,Private room,1 shared bath,1,1,1,1,70.0
+05/06/2025 17:50:51,advanced,features,1133202506082280645,560369596,Private room in rental unit,Private room,1 bath,2,2,1,1,92.38
+05/06/2025 17:50:51,advanced,features,50828362,408716263,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,182.14
+05/06/2025 17:50:51,base,global,1216106132900487983,11873533,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:51,base,global,49019972,15089330,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:51,advanced,features,1136760701413477546,129970734,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,122.09
+05/06/2025 17:50:51,advanced,features,9984236,27662855,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,119.12
+05/06/2025 17:50:51,advanced,features,1031904329143408084,9202454,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,108.87
+05/06/2025 17:50:51,advanced,features,1075142105287780016,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,107.09
+05/06/2025 17:50:51,advanced,features,1246363837104334183,598969008,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,157.61
+05/06/2025 17:50:51,base,global,33862576,73784186,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:51,advanced,features,16199048,3528377,Private room in rental unit,Private room,1 bath,2,1,1,1,115.23
+05/06/2025 17:50:52,advanced,features,1080377120557012307,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,102.71
+05/06/2025 17:50:52,advanced,features,1057777554238137610,553450296,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,146.6
+05/06/2025 17:50:52,base,global,24850134,187849434,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,global,46004288,345246362,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,user,1164224680174114048,203608563,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,72.0
+05/06/2025 17:50:52,advanced,features,1258550686250250504,573830909,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,133.34
+05/06/2025 17:50:52,base,user,10387269,53473765,Private room in rental unit,Private room,1 shared bath,1,1,1,1,70.0
+05/06/2025 17:50:52,advanced,features,21599640,3528377,Private room in rental unit,Private room,1 bath,2,1,1,1,113.31
+05/06/2025 17:50:52,advanced,features,50908558,3528377,Entire rental unit,Entire home/apt,1 bath,3,2,2,2,259.78
+05/06/2025 17:50:52,advanced,features,1166564052389270308,171350534,Private room in rental unit,Private room,1 shared bath,2,2,1,1,94.62
+05/06/2025 17:50:52,base,global,669950137517119577,329530975,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,global,691097140938462882,88489998,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,global,44072712,28092658,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,user,44302602,170887004,Private room in home,Private room,1 shared bath,2,0,0,0,0.0
+05/06/2025 17:50:52,advanced,features,24053771,10516963,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,129.95
+05/06/2025 17:50:52,base,user,1281179189795577913,23599590,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,78.0
+05/06/2025 17:50:52,advanced,features,26626507,132924917,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,146.32
+05/06/2025 17:50:52,advanced,features,1110216271665059853,566564369,Entire rental unit,Entire home/apt,1 bath,4,1,2,1,362.76
+05/06/2025 17:50:52,base,user,625020173582193668,580113167,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,86.0
+05/06/2025 17:50:52,advanced,features,1167849243475344829,42148918,Entire rental unit,Entire home/apt,1 bath,4,1,3,3,155.77
+05/06/2025 17:50:52,base,global,1162378210489926677,37640139,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,global,906996043777706765,246244567,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,user,22997037,10409307,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.5
+05/06/2025 17:50:52,advanced,features,646133256675138727,273734321,Entire rental unit,Entire home/apt,1 bath,3,1,2,1,152.25
+05/06/2025 17:50:52,advanced,features,730212980086991315,409674297,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,135.78
+05/06/2025 17:50:52,base,global,1044789272389787858,3765731,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,global,35244167,35853012,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:52,base,user,1138574345300033565,568401646,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,128.0
+05/06/2025 17:50:52,advanced,features,1075171743078761059,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,158.83
+05/06/2025 17:50:53,advanced,features,698584849236621837,437010693,Entire rental unit,Entire home/apt,1 bath,3,1,2,2,148.5
+05/06/2025 17:50:53,advanced,features,1294840081798451394,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,133.4
+05/06/2025 17:50:53,advanced,features,18018494,31307191,Private room in rental unit,Private room,1 shared bath,2,1,1,1,88.47
+05/06/2025 17:50:53,advanced,features,669246377142145178,86808757,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,152.82
+05/06/2025 17:50:53,advanced,features,13778957,80886150,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,84.15
+05/06/2025 17:50:53,advanced,features,1144829950091512553,574656638,Private room in rental unit,Private room,1 shared bath,2,1,1,1,69.74
+05/06/2025 17:50:53,base,global,4887567,25145482,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:53,advanced,features,43644445,141513743,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,137.37
+05/06/2025 17:50:53,base,user,13178134,73690730,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,80.0
+05/06/2025 17:50:53,base,global,4435268,3025556,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:53,base,user,12605638,9785768,Private room in home,Private room,1 bath,2,1,1,1,59.0
+05/06/2025 17:50:53,base,global,626462521479969496,26153653,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:53,advanced,features,1244788525202165158,37382496,Private room in rental unit,Private room,1 shared bath,3,1,2,1,122.63
+05/06/2025 17:50:53,base,user,49697003,154666199,Entire rental unit,Entire home/apt,1 bath,1,1,1,1,109.0
+05/06/2025 17:50:53,advanced,features,1271159407451208951,81349136,Entire rental unit,Entire home/apt,1 bath,4,1,1,1,168.17
+05/06/2025 17:50:53,advanced,features,1133415282711238091,313830596,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,120.98
+05/06/2025 17:50:53,advanced,features,1141336753900064532,573830909,Private room in rental unit,Private room,1 bath,2,1,1,1,75.06
+05/06/2025 17:50:53,advanced,features,612312227832942158,452406873,Private room in rental unit,Private room,1 shared bath,2,1,1,1,63.2
+05/06/2025 17:50:53,advanced,features,569312779165446205,318991728,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,200.98
+05/06/2025 17:50:53,advanced,features,1236703342342547960,12766121,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,153.32
+05/06/2025 17:50:53,base,user,1285528152731455373,585893134,Private room in rental unit,Private room,1 shared bath,2,1,1,1,80.0
+05/06/2025 17:50:53,advanced,features,1097671500301511014,9026057,Entire rental unit,Entire home/apt,1 bath,2,1,2,1,177.91
+05/06/2025 17:50:54,advanced,features,22335634,17231662,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,111.03
+05/06/2025 17:50:54,advanced,features,22697970,78762293,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,126.72
+05/06/2025 17:50:54,advanced,features,1309524085076753459,666526659,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,155.0
+05/06/2025 17:50:54,base,user,20797693,9994972,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,145.0
+05/06/2025 17:50:54,base,global,1202410325462534627,34476199,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,user,1035998080051569738,487131436,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,96.0
+05/06/2025 17:50:54,advanced,features,890986396120437360,15495526,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,175.44
+05/06/2025 17:50:54,advanced,features,800789513994589094,353205129,Private room in rental unit,Private room,1 shared bath,3,2,3,2,69.15
+05/06/2025 17:50:54,base,global,42674405,28011871,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,advanced,features,1072317763473839016,273734321,Entire rental unit,Entire home/apt,1 bath,2,2,1,1,106.89
+05/06/2025 17:50:54,advanced,features,26525411,97653619,Private room in rental unit,Private room,1 bath,2,1,1,1,95.52
+05/06/2025 17:50:54,advanced,features,1124591177083259428,175640,Private room in rental unit,Entire home/apt,1 bath,2,1,1,1,100.15
+05/06/2025 17:50:54,advanced,features,25046205,14849570,Private room in rental unit,Private room,1 shared bath,2,2,2,2,64.95
+05/06/2025 17:50:54,base,global,1006675983024300031,6475718,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,global,1313794953994121093,557642006,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,global,54131479,420511116,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,global,41904351,7268342,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,user,1172642180635386973,166151549,Room in hotel,Private room,1 private bath,2,1,1,1,128.0
+05/06/2025 17:50:54,base,global,26303016,34497760,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,user,1122113376388518946,16859307,Private room in bed and breakfast,Private room,1 bath,2,1,1,1,67.0
+05/06/2025 17:50:54,base,global,1020273633869151387,543323676,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,advanced,features,974577175368770037,148635641,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,138.96
+05/06/2025 17:50:54,base,global,38987196,298713451,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,base,global,1112058516045746116,25020871,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,advanced,features,1239072779655957665,31664760,Entire rental unit,Entire home/apt,1 bath,3,1,2,2,170.3
+05/06/2025 17:50:54,base,global,1220878089989431415,154418024,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:54,advanced,features,51593747,46143912,Entire rental unit,Entire home/apt,1 bath,3,2,3,3,159.16
+05/06/2025 17:50:54,advanced,features,1083223328014763926,350939615,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,142.09
+05/06/2025 17:50:54,advanced,features,1070841861610887156,273734321,Entire rental unit,Entire home/apt,1 bath,4,1,3,3,217.36
+05/06/2025 17:50:54,base,user,1094090447647313864,512408013,Entire rental unit,Entire home/apt,1.5 baths,4,2,2,2,130.0
+05/06/2025 17:50:55,advanced,features,1081909,522480,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,147.19
+05/06/2025 17:50:55,base,global,33652327,11610180,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,base,user,1310302832589588830,428059934,Entire rental unit,Entire home/apt,1 bath,3,0,0,0,0.0
+05/06/2025 17:50:55,advanced,features,862735973167645220,105673802,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,127.77
+05/06/2025 17:50:55,advanced,features,807089222782966436,32572543,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,131.97
+05/06/2025 17:50:55,base,global,48341111,47598892,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,advanced,features,1065235882270524413,31664760,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,138.89
+05/06/2025 17:50:55,base,user,21971383,13560406,Private room in condo,Private room,1 shared bath,1,1,1,1,49.0
+05/06/2025 17:50:55,advanced,features,1047104852662143592,351973276,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,221.03
+05/06/2025 17:50:55,advanced,features,2675341,530239,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,146.06
+05/06/2025 17:50:55,base,global,53121447,144755026,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,base,global,29318990,220876508,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,advanced,features,47371920,44666245,Entire rental unit,Entire home/apt,1 bath,3,1,1,2,150.06
+05/06/2025 17:50:55,advanced,features,1307408446354836636,188370727,Private room in rental unit,Private room,1 shared bath,2,1,1,1,63.78
+05/06/2025 17:50:55,base,global,1122285599990550289,5803753,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,base,global,1291197391188175273,271005034,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,base,global,849982393335807716,428751875,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,advanced,features,37935895,44666245,Entire rental unit,Entire home/apt,1 bath,3,1,2,1,141.88
+05/06/2025 17:50:55,advanced,features,752604048675772683,365093965,Private room in rental unit,Private room,1 bath,2,1,1,1,62.38
+05/06/2025 17:50:55,advanced,features,32778681,246549246,Private room in rental unit,Private room,1 bath,2,1,1,2,75.25
+05/06/2025 17:50:55,advanced,features,21678834,157808944,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,112.99
+05/06/2025 17:50:55,base,global,1208136073778378342,574146859,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:55,advanced,features,11736459,46143912,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,103.79
+05/06/2025 17:50:55,advanced,features,1075177518236562475,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,108.73
+05/06/2025 17:50:55,base,user,5178823,10529209,Entire rental unit,Entire home/apt,2 baths,4,2,1,0,162.5
+05/06/2025 17:50:55,advanced,features,947713514551298879,9910212,Private room in rental unit,Private room,1 shared bath,1,1,1,1,67.02
+05/06/2025 17:50:56,advanced,features,7717921,37885330,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,744.46
+05/06/2025 17:50:56,advanced,features,969350576817105076,409674297,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,119.98
+05/06/2025 17:50:56,base,global,12643259,9221050,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,advanced,features,1080415285139034024,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,107.7
+05/06/2025 17:50:56,base,global,1284690818914735347,528233630,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,advanced,features,44313433,4973828,Private room in rental unit,Private room,1 shared bath,2,1,1,1,67.78
+05/06/2025 17:50:56,base,global,38083649,98510559,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,base,global,1181836036452192711,48455432,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,base,global,1318859808229991842,668547423,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,base,global,31308500,3773453,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,base,global,46887198,100319627,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,advanced,features,926025868837170304,523086907,Private room in rental unit,Private room,1 bath,2,1,1,1,95.09
+05/06/2025 17:50:56,advanced,features,30580109,46143912,Entire rental unit,Entire home/apt,1 bath,3,2,2,2,191.0
+05/06/2025 17:50:56,advanced,features,1130862180157828144,273734321,Entire rental unit,Entire home/apt,1 bath,5,1,2,3,261.48
+05/06/2025 17:50:56,advanced,features,22682322,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,2,2,133.51
+05/06/2025 17:50:56,base,global,42252718,53403797,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,advanced,features,7586171,321427694,Private room in rental unit,Private room,1 shared bath,2,1,1,1,61.82
+05/06/2025 17:50:56,base,global,892851971946195417,489817763,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,base,global,753315204430242458,468476108,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:56,advanced,features,11780330,3528377,Entire rental unit,Entire home/apt,1 bath,4,3,3,2,400.36
+05/06/2025 17:50:56,advanced,features,1076977985166802366,282323511,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,69.74
+05/06/2025 17:50:56,advanced,features,48371976,16246769,Entire rental unit,Entire home/apt,1 bath,4,1,1,2,156.79
+05/06/2025 17:50:56,advanced,features,1067100055569935977,3528377,Entire rental unit,Entire home/apt,1 bath,3,1,1,3,135.5
+05/06/2025 17:50:56,base,user,4798214,24724047,Entire rental unit,Entire home/apt,1 bath,2,1,1,2,99.0
+05/06/2025 17:50:56,advanced,features,16257749,3528377,Private room in rental unit,Private room,1 bath,2,1,1,1,112.37
+05/06/2025 17:50:57,advanced,features,39904657,28768692,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,158.34
+05/06/2025 17:50:57,advanced,features,37587592,273734321,Entire rental unit,Entire home/apt,1 bath,2,1,0,1,116.48
+05/06/2025 17:50:57,base,global,29002033,3220792,Entire rental unit,Entire home/apt,1 bath,2,1,1,1,115.0
+05/06/2025 17:50:57,advanced,features,32708538,48450653,Entire rental unit,Entire home/apt,1 bath,3,1,1,1,138.68
+05/06/2025 17:50:57,base,user,13279964,56534532,Private room in condo,Private room,1 shared bath,2,1,1,1,95.0
