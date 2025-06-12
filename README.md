@@ -4,7 +4,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-W momencie w którym dodawana jest oferta należy wypełnić wiele pól. Może dałoby się jakoś usprawnić ten proces?
+**PL:** W momencie w którym dodawana jest oferta należy wypełnić wiele pól. Może dałoby się jakoś usprawnić ten proces?
+
+**EN:** When adding an offer, many fields need to be filled in. Perhaps this process could be streamlined?
 
 
 ## Installation
@@ -36,18 +38,16 @@ just run
 │   └── raw            <- The original, immutable data dump.
 │
 ├── docs               <- Documentation for the project.
+|
+├── logs               <- Generated logs.
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries.
 │
 ├── notebooks          <- Jupyter notebooks.
-|
-├── logs               <- Generated logs.
-│
-├── pyproject.toml     <- Configuration file for mypy.
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
 │
-├── setup.cfg          <- Project configuration file.
+├── setup.cfg          <- Pip project configuration file.
 │
 └── nocarz             <- Source code for use in this project.
     │
